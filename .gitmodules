@@ -1,0 +1,3 @@
+[submodule "wmt16-19-metrics-shared-task"]
+	path = wmt16-19-metrics-shared-task
+	url = git@github.com:johntzwei/wmt16-19-metrics-shared-task.git
